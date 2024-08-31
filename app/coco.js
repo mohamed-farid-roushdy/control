@@ -2,7 +2,9 @@ import React from 'react'
 
 const coco = () => {
   return (
-    <div>coco</div>
+    <div>
+    <h1> hey im koko abou koko </h1>
+    coco</div>
   )
 }
 
